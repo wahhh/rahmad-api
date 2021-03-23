@@ -2,10 +2,10 @@
  
 # Source Codes - Rahmad-Api
 <p align="center">
-<a href="#"><img title="Rahmad-Api" src="https://img.shields.io/badge/rahmad-api Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Mann's-Api" src="https://img.shields.io/badge/rahmad-api Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RAHMAD1980"><img title="Author" src="https://img.shields.io/badge/Author-Rahmad-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/lahhh"><img title="Author" src="https://img.shields.io/badge/Author-Rahmad-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RAHMAD1980/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAHMAD1980?color=red&style=flat-square"></a>
