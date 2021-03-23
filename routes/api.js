@@ -153,7 +153,7 @@ var len = 15
             randomlagi += arr[Math.floor(Math.random() * arr.length)];
         }
 
-        var randomTextNumber = random+randomlagi+'---------Rizky'+'RIZKY--GANS';
+        var randomTextNumber = random+randomlagi+'---------Arman'+'MANXTODD--GANS;
         
  
  async function cekApiKey(api) {
