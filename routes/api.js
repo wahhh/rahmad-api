@@ -322,7 +322,7 @@ router.get('/darkjokes', async (req, res, next) => {
         var apikeyInput = req.query.apikey
 	if(!apikeyInput) return res.json(loghandler.notparam)
 	if(apikeyInput != 'MannKey') return res.json(loghandler.invalidKey)
-          bdyyyy = await fetch('https://raw.githubusercontent.com/Rizky878/rahmad-api/main/darkjoke.txt')
+          bdyyyy = await fetch('https://raw.githubusercontent.com/lahhh/rahmad-api/main/darkjoke.txt')
        bdy = await bdyyyy.text()
         splitnix = bdy.split('\n')
               
@@ -337,7 +337,7 @@ router.get('/gombal', async (req, res, next) => {
         var apikeyInput = req.query.apikey
 	if(!apikeyInput) return res.json(loghandler.notparam)
 	if(apikeyInput != 'MannKey') return res.json(loghandler.invalidKey)
-          bdyyyy = await fetch('https://raw.githubusercontent.com/Rizky878/rahmad-api/main/Iki.txt')
+          bdyyyy = await fetch('https://raw.githubusercontent.com/lahhh/rahmad-api/main/gombal.txt')
        bdy = await bdyyyy.text()
         splitnix = bdy.split('\n')
               
