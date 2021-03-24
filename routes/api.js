@@ -113,7 +113,7 @@ loghandler = {
         status: false,
         creator: `${creator}`,
         code: 406,
-        message: 'Apikey invalid (get apikey in wa.me/6285807107404 free!)'
+        message: 'Apikey invalid, get in wa.me/6285807107404 Free!'
     },
     invalidlink: {
         status: false,
