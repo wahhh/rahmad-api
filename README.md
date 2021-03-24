@@ -109,9 +109,9 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 </p>
 
 # Live API
-* https://manns-api.herokuapp.com
+* https://api-mann.herokuapp.com
 - Gunakan Parameter Yg Sama Yak :)
-- 100 % Open Source
+- 100 % Open Source For You All!
 - Like This Repository Okeee 🎉
 - Note : Jangan Memperjual Belikan API Ini, Jika anda ingin memakai nya dan meRename dengan nama kalian Tidak Masalah, karena ini adalah Project API Open Source
 - Untuk Melihat Update Silakan Ganti Branch Ke "update2"
